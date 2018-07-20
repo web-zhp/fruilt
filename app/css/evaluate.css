@@ -1,0 +1,119 @@
+html{
+  font-size: 20px;
+}
+.title {
+  width: 17.95rem;
+  margin: 0 auto;
+  background-color: #ffffff;
+  margin-top: 0.425rem;
+  overflow: hidden;
+}
+.title_center img {
+  width: 3.1rem;
+  height: 3.1rem;
+  border-radius: 100%;
+  margin-left: 1rem;
+  margin-top: 0.65rem;
+}
+.title_center ul li {
+  display: flex;
+}
+.title_center ul li p {
+  margin-left: 0.7rem;
+  font-size: 0.75rem;
+  margin: 0;
+  margin-top: 1.15rem;
+}
+.title_center .num1 {
+  font-size: 0.75rem;
+  color: #008ce7;
+  margin: 0;
+  margin-top: 0.85rem;
+}
+.title_center .num2 {
+  font-size: 0.65rem;
+  margin-left: 10.425rem;
+  color: #999;
+}
+.title_center {
+  height: 4.975rem;
+  border-bottom: 0.025rem solid #eee;
+}
+.word {
+  text-align: center;
+}
+.word p {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #333333;
+  margin: 0;
+  margin-top: 1.625rem;
+}
+.title_last ul {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1.675rem;
+}
+.title_last ul li {
+  width: 3.975rem;
+  height: 1.6rem;
+  border: solid 0.025rem #008ce7;
+  text-align: center;
+  line-height: 1.6rem;
+  font-size: 0.75rem;
+  font-weight: normal;
+  color: #008ce7;
+  box-sizing: border-box;
+}
+.title_last ul li:first-child {
+  background-color: #008ce7 !important;
+  color: #ffffff !important;
+}
+.frame {
+  width: 16.575rem;
+  height: 7.625rem;
+  margin: 0 auto;
+  margin-top: 1.925rem;
+  background-color: #f8f8f8;
+  font-size: 0.6rem;
+  font-weight: normal;
+  color: #999999;
+  padding: 0.425rem;
+  box-sizing: border-box;
+}
+.carme {
+  width: 3.3rem;
+  height: 2.825rem;
+  border: solid 0.025rem #cccccc;
+  text-align: center;
+  padding-top: 0.325rem;
+  box-sizing: border-box;
+  margin-left: 0.625rem;
+  margin-top: 0.975rem;
+}
+.carme img {
+  width: 1.575rem;
+  height: 1.275rem;
+}
+.carme p {
+  margin: 0;
+  font-size: 0.6rem;
+  font-weight: normal;
+  color: #666666;
+}
+.submit {
+  width: 16.525rem;
+  height: 2.025rem;
+  background-color: #008ce7;
+
+  margin: 0 auto;
+  text-align: center;
+  line-height: 2.025rem;
+  font-size: 0.75rem;
+  font-weight: normal;
+  color: #ffffff;
+  margin-top: 2.375rem;
+}
+.submit p {
+  margin: 0;
+}

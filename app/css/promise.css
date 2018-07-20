@@ -1,0 +1,38 @@
+html {
+  font-size: 20px;
+}
+.title .top ul {
+  width: 17.85rem;
+  background: #ffffff;
+  margin: 0 auto;
+  padding-bottom: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.title .top ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title .top ul li p {
+  font-size: 0.75rem;
+  color: #666666;
+  margin-top: 0.825rem;
+  margin-left: 0.675rem;
+}
+
+.title .top ul li img {
+  width: 3rem;
+  height: 2.225rem;
+  margin: 0.25rem;
+}
+
+.title .top ul span {
+  font-size: 0.6rem;
+  color: #999999;
+  margin-left: 11.675rem;
+}
+body {
+  font-size: 20px;
+}

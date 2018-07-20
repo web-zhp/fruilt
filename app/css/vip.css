@@ -1,0 +1,66 @@
+html {
+  font-size: 20px;
+}
+.title ul .box {
+  height: 5.95rem;
+  border-radius: 0 0 50% 50%;
+  background-color: #008ce7;
+}
+
+.title ul li {
+  text-align: center;
+}
+
+.title ul li img {
+  width: 16.5rem;
+  height: 9.275rem;
+  margin-top: -4.625rem;
+}
+
+.bottom ul .one {
+  width: 14.65rem;
+  height: 2.25rem;
+  background-image: linear-gradient(0deg, #fae9a3 0%, #d4bb6b 100%);
+  box-shadow: 0.1rem 0.2rem 0.9rem 0rem rgba(155, 131, 55, 0.32);
+  border-radius: 2.25rem;
+  text-align: center;
+  line-height: 2.25rem;
+  margin: 0 auto;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #724427;
+  font-family: SourceHanSansCN-Bold;
+}
+
+.bottom ul .two {
+  text-align: center;
+  margin: 1.45rem 0 1.25rem 0;
+}
+
+.bottom ul .two img {
+  width: 0.7rem;
+  height: 0.75rem;
+}
+
+.bottom ul .two span {
+  font-size: 0.9rem;
+  color: #724427;
+}
+
+.bottom ul .two .two_two {
+  transform: rotateY(180deg);
+}
+
+.bottom ul .three {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.bottom ul .three img {
+  width: 8rem;
+  height: 5.275rem;
+}
+
+.bottom ul .three .three_three {
+  margin-left: 0.625rem;
+}

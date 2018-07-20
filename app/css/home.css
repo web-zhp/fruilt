@@ -1,0 +1,189 @@
+html{
+  font-size: 20px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+ul,
+li,
+a {
+  list-style: none;
+  text-decoration: none;
+}
+.head_top {
+  width: 100%;
+  height: 3.775rem;
+  background: #008ce7;
+  margin-top: 0;
+  position: relative;
+}
+.head .head_top ul li {
+  display: flex;
+  justify-content: space-between;    align-items: center;
+}
+.head .head_top ul li img {
+  margin-right: 7px;
+}
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+.head_top ul li a {
+  font-size: 0.9rem;
+  margin-left: 0.675rem;
+  color: #fff;
+}
+.head_center {
+  width: 100%;
+  height: 6.175rem;
+  background: #008ce7;
+}
+.head_center .first {
+  width: 0.625rem;
+  height: 0.725rem;
+  margin-left: 0.65rem;
+}
+.head_center h3 {
+  font-size: 0.85rem;
+  color: #fff;
+  display: inline;
+}
+.head_center .two {
+  width: 0.375rem;
+  height: 0.2rem;
+  margin-bottom: 0.1rem;
+}
+.head_bottom {
+  text-align: center;
+}
+.head_bottom img {
+  width: 17.9rem;
+  height: 7.35rem;
+  border-radius: 0.25rem;
+  margin-top: 0.725rem;
+}
+.title .one {
+  text-align: center;
+}
+.title{
+  margin-bottom: 56px;
+}
+.title .one img {
+  width: 17.6rem;
+ margin-top: 3.5rem;
+}
+.title .four {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+.title .four .box ul {
+  display: flex;
+  justify-content: center;
+}
+.title .four ul .dyz {
+  width: 8.8rem;
+  height: 6.425rem;
+  background: url("./../../img/home/banner1.png") no-repeat;
+  background-size: cover;
+  border-radius: 0.25rem;
+  margin-right: 0.3rem;
+}
+.title .four ul .dez {
+  width: 8.8rem;
+  height: 6.425rem;
+  background: url("./../../img/home/banner2.png") no-repeat;
+  background-size: cover;
+  border-radius: 0.25rem;
+  margin-right: 0;
+}
+.title .four ul .dsnz {
+  width: 8.8rem;
+  height: 6.425rem;
+  background: url("./../../img/home/banner3.png") no-repeat;
+  background-size: cover;
+  border-radius: 0.25rem;
+  margin-right: 0.3rem;
+}
+.title .four ul .dsz {
+  width: 8.8rem;
+  height: 6.425rem;
+  background: url("./../css/../../img/home/banner4.png") no-repeat;
+  background-size: cover;
+  border-radius: 0.25rem;
+  margin-right: 0;
+}
+.title .four ul li h3 {
+  font-size: 0.9rem;
+  margin: 0;
+  margin-right: 3.875rem;
+  margin-top: 0.775rem;
+  color: #333;
+}
+.title .four ul li .dyh {
+  font-size: 0.45rem;
+  margin: 0;
+  margin-right: 2.825rem;
+  color: #666;
+}
+.title .four ul li .deh {
+  font-size: 0.45rem;
+  margin: 0;
+  margin-right: 0.875rem;
+  color: #666;
+}
+.title .four ul li .dsh {
+  font-size: 0.45rem;
+  margin: 0;
+  margin-right: 1.275rem;
+  color: #666;
+}
+.title .four ul li .dssh {
+  font-size: 0.45rem;
+  margin: 0;
+  margin-right: -0.275rem;
+  color: #666;
+}
+.title .four .box .ull {
+  margin-top: 0.275rem;
+}
+.dh {
+  position: fixed;
+  width: 100%;
+  background: #fff;
+  padding: 0.45rem 0;
+  box-sizing: border-box;
+  bottom: 0;
+}
+.n1 {
+  font-size: 0.6rem;
+  color: #008ce7 !important;
+}
+.dh ul {
+  display: flex;
+  justify-content: space-around;
+}
+.dh ul li a {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.dh ul li a .num1 {
+  width: 1.125rem;
+  height: 1.15rem;
+}
+.dh ul li a .num2 {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+.dh ul li a .num3 {
+  width: 1.05rem;
+  height: 1.2rem;
+}
+
+.dh ul li a span {
+  font-size: 0.6rem;
+  color: #999;
+}

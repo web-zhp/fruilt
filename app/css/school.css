@@ -1,0 +1,65 @@
+html {
+  font-size: 20px;
+}
+.title {
+  position: relative;
+  width: 17.85rem;
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 0.525rem;
+  overflow: hidden;
+}
+
+.title .title_top {
+  display: flex;
+  border-bottom: 0.05rem solid #eee;
+}
+
+.title img {
+  width: 0.7rem;
+  height: 1.075rem;
+  background-color: #40cbdb;
+  margin-top: 0.675rem;
+  margin-left: 0.8rem;
+}
+
+.title p {
+  font-size: 0.75rem;
+  color: #333333;
+  margin-top: 0.9rem;
+  margin-left: 0.625rem;
+}
+
+.title span {
+  position: absolute;
+  font-size: 0.65rem;
+  color: #008ce7;
+  margin-left: 15.35rem;
+  margin-top: 0.7125rem;
+}
+
+.title_bottom .p_one {
+  font-size: 0.75rem;
+  color: #333333;
+  margin: 0.5rem 0.825rem;
+}
+
+.title_bottom .p_two_two {
+  font-size: 0.75rem;
+  color: #999999;
+  margin-top: 0.9rem;
+  margin-left: 0.775rem;
+  margin-bottom: 0;
+}
+
+.title_bottom .p_three_three {
+  font-size: 0.75rem;
+  color: #999999;
+  margin-left: 0.775rem;
+  margin-top: 0.525rem;
+}
+
+.title .title_top .span {
+  font-size: 0.65rem;
+  color: #43ac6a;
+}

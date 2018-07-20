@@ -1,0 +1,75 @@
+html{
+  font-size: 20px;
+}
+.title {
+  width: 18rem;
+  height: 8.15rem;
+  background: url("./../../img/discount/quan.png");
+  background-size: cover;
+  margin: 0 auto;
+  padding-top: 1.3rem;
+  margin-top: 0.45rem;
+}
+
+.top ul {
+  display: flex;
+}
+.top ul li:first-child p {
+  font-size: 0.6rem;
+  font-weight: normal;
+  color: #008ce7;
+  margin-left: 2.3rem;
+}
+.top ul li:first-child span:first-child {
+  font-size: 1.05rem;
+  font-weight: normal;
+  color: #008ce7;
+  margin-left: 1.975rem;
+}
+.top ul li:first-child span:nth-child(2) {
+  font-size: 2.75rem;
+  font-weight: 600;
+  color: #008ce7;
+  margin-top: 1.4rem;
+}
+.top ul li:nth-child(2) {
+  margin-left: 1.95rem;
+  margin-top: 0.4rem;
+}
+.top ul li:nth-child(2) p:first-child {
+  font-size: 0.75rem;
+  font-weight: normal;
+  color: #666666;
+  margin-bottom: 0.425rem;
+}
+.top ul li:nth-child(2) p:nth-child(2) {
+  font-size: 0.6rem;
+  font-weight: normal;
+  color: #666666;
+}
+.bottom p {
+  font-size: 0.6rem;
+  font-weight: normal;
+  color: #999999;
+  margin-left: 1.1rem;
+  margin-top: 2.5rem;
+}
+.top ul li:nth-child(3) img {
+  width: 3.45rem;
+  height: 3.45rem;
+  position: relative;
+  top: -0.8rem;
+  left: 0.3rem;
+}
+.png {
+  overflow: hidden;
+}
+.fire {
+  font-size: 1.05rem;
+  font-weight: normal;
+  color: #008ce7;
+  margin-left: 0.775rem !important;
+}
+.seach {
+  margin-top: 0.325rem !important;
+}

@@ -1,0 +1,141 @@
+html {
+  font-size: 20px;
+}
+.title img {
+  width: 100%;
+  height: 9.85rem;
+}
+
+.list ul {
+  margin-top: -0.95rem;
+  position: relative;
+  height: 26.8rem;
+}
+
+.list li {
+  width: 100%;
+  display: flex;
+}
+
+.list .one {
+  height: 3.975rem;
+  width: 100%;
+  top: -1.35rem;
+  border-top-left-radius: 0.75rem;
+  border-top-right-radius: 0.75rem;
+  background-image: linear-gradient(-90deg, #0a99aa 0%, #00d1aa 100%);
+}
+
+.list .two {
+  height: 5rem;
+  width: 100%;
+  bottom: 2.3rem;
+  position: absolute;
+  border-radius: 0.75rem;
+  background-image: linear-gradient(-90deg, #663acb 0%, #634bfb 100%);
+}
+
+.list .three {
+  height: 3.975rem;
+  width: 100%;
+  bottom: -0.5rem;
+  position: absolute;
+  border-top-left-radius: 0.75rem;
+  border-top-right-radius: 0.75rem;
+  background-image: linear-gradient(0deg, #fe6263 0%, #d54c5e 100%);
+}
+
+.list .left .dg {
+  width: 1rem;
+  height: 1.5rem;
+  margin-left: 1.9rem;
+  margin-top: 1.1rem;
+}
+
+.list .left .kd {
+  width: 1.35rem;
+  height: 1.5rem;
+  margin-left: 1.775rem;
+  margin-top: 1.1rem;
+}
+
+.list .left .wm {
+  width: 1.625rem;
+  height: 1.25rem;
+  margin-left: 1.575rem;
+  margin-top: 1.1rem;
+}
+
+.list ul h3 {
+  font-size: 0.9rem;
+  color: #ffffff;
+  margin: 0;
+  margin-bottom: 0.4rem;
+}
+
+.list ul p {
+  font-size: 0.6rem;
+  color: rgba(255, 255, 255, 0.5);
+  margin: 0;
+}
+
+.list ul .right img {
+  width: 0.75rem;
+  height: 0.45rem;
+  margin-top: 1.775rem;
+  margin-left: 3.225rem;
+  transform: rotateX(180deg);
+}
+
+.center_one {
+  margin-left: 1.625rem;
+  margin-top: 0.9rem;
+}
+
+.center_two {
+  margin-top: 0.9rem;
+  margin-left: 1.375rem;
+}
+
+.center_three {
+  margin-top: 0.9rem;
+  margin-left: 1.2875rem;
+}
+.one_center {
+  margin-top: 1.275rem;
+}
+.p {
+  display: flex;
+  justify-content: space-around;
+}
+.pp {
+  margin-bottom: 0.4rem;
+}
+.p p {
+  font-size: 0.775rem !important;
+  font-weight: normal;
+  color: #0a99aa !important;
+  width: 4.25rem;
+  height: 2.35rem;
+  background-color: #d9edea;
+  text-align: center;
+  line-height: 2.35rem;
+}
+.dg {
+  font-size: 0.725rem !important;
+  color: #333333 !important;
+  text-align: center;
+  margin-top: 1.1rem !important;
+}
+.one_center_bottom li {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1.65rem;
+}
+.one_center_bottom img {
+  width: 2.95rem;
+  height: 4.075rem;
+}
+html {
+  font-size: 20px;
+}
